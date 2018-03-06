@@ -1,0 +1,5 @@
+build:
+	javac -c . Test.java
+
+clean:
+	rm -rf *.class
